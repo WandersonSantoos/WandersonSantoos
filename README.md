@@ -26,11 +26,12 @@
   <a href = "mailto:contatoraWandersonsantos.ws51@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/wanderson-santos-2a4b90207/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
-  
+    <p align="center"> <img height="25" width="125" src="https://komarev.com/ghpvc/?username=WandersonSantoos&color=191970" alt="Profile views"/>
+    
   ##
-  
+
   <div align="center">
-     <img alt="Wand-pic" height="150em" src="https://media.giphy.com/media/TgyJebqyMtPrOxiPdk/giphy.gif">
+     <img alt="Wand-pic" height="150em" src="https://i.pinimg.com/564x/3a/7c/c4/3a7cc431cbbbf92e9734d7214ac81bc5.jpg">
   </div>
 
 
