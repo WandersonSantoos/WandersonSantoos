@@ -26,7 +26,7 @@
   <a href = "mailto:contatoraWandersonsantos.ws51@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/wanderson-santos-2a4b90207/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
-    <p align="center"> <img height="25" width="125" src="https://komarev.com/ghpvc/?username=WandersonSantoos&color=191970" alt="Profile views"/>
+    <p align="center"> <img height="25" width="125" src="https://komarev.com/ghpvc/?username=WandersonSantoos&color=191970" alt="Visualização no perfil:"/>
     
   ##
 
