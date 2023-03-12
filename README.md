@@ -38,7 +38,7 @@
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{WandersonSantoo}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{WandersonSantoos}/count.svg" /></p> 
 <br>
 </div>
 
